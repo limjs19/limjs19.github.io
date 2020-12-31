@@ -14,3 +14,5 @@ facebook_url: https://facebook.com/
 googleplus_url: https://plus.google.com/
 instagram_url: https://instagram.com
 github_url: https://github.com/artemsheludko/
+
+theme: jekyll-theme-minimal
