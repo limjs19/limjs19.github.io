@@ -4,7 +4,7 @@
 ![](assets/images/mr.brown.jpg)
 
 # Demo
-View this jekyll theme in action [here](http://artemsheludko.pw/mr-brown/)
+View this jekyll theme in action [here](http://limjs19.github.io/)
 
 Integrations
   - [Google Fonts](https://fonts.google.com/)
